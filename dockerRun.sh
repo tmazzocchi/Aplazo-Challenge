@@ -1,0 +1,1 @@
+docker run -d --name simple-interest-microservice-docker -p 8080:8080 simple-interest-microservice-docker:1

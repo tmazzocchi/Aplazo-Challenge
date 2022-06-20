@@ -1,0 +1,1 @@
+docker build -t simple-interest-microservice-docker:1 .
